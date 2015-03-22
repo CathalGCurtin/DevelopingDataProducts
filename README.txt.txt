@@ -1,0 +1,3 @@
+This is a simple application that allows you to choose dates from the London Datastore Number of Bicycle Hires in the Barclays Hire Scheme dataset. Based on the dates chosen, the mean number of bikes hired over the data range is displayed. A plot showing all hires over the entire dataset is also shown above the mean number. 
+
+The application relies on the tf1-daily-cycle-hires.csv file being in same location as the application is run from.
